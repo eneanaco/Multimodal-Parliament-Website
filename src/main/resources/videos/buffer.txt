@@ -1,0 +1,1 @@
+buffer to be keeped in the video folder so the folder can be commited
